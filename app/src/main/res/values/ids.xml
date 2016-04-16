@@ -1,0 +1,11 @@
+<resources>
+    <item type="id" name="picture_taken"/>
+    <item type="id" name="preview_captured"/>
+    <item type="id" name="init_camera"/>
+    <item type="id" name="open_camera"/>
+    <item type="id" name="start_preview"/>
+    <item type="id" name="stop_preview"/>
+    <item type="id" name="take_picture"/>
+    <item type="id" name="capture_preview"/>
+    <item type="id" name="draw_result"/>
+</resources>
