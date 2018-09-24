@@ -15,6 +15,7 @@ To run the project the OpenCV library for Android is required.
 
 # Software architecture
 UML diagrams can be found in the docs folder. As example the class diagram:
+![alt text](https://github.com/agoscinski/BasicCamera/blob/master/docs/class_diagram.svg "Class diagram")
 
 # References
 The project ist based on the QR code scanner app https://github.com/zxing
